@@ -7,6 +7,7 @@ public class Artista {
         this.nombreArtista = nombreArtista;
     }
 //falta get
+    //añadido
     
     @Override
     public String toString() {
